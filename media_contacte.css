@@ -1,0 +1,31 @@
+@media screen and ( max-width: 980px) {
+	body{
+		width: 100%;
+	}
+	nav,#navbar{
+		width: 800px;
+		margin:auto;
+	}
+	.formular{
+		width: 800px;
+		margin:auto;
+	}
+	form{
+		width: 800px;
+	}
+	input[type=text], select {
+		width: 800px;
+	}
+	h2{
+		margin-left:350px;
+	}
+	iframe{
+		width: 800px;
+		margin-left: 70px;
+	}
+	input[type=descriere] {
+		width: 800px;
+		margin-left: 70px;
+	}
+
+}

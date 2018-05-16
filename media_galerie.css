@@ -1,0 +1,46 @@
+@media screen and ( max-width: 980px) {
+	body{
+		width: 100%;
+	}
+	nav,#navbar{
+		width: 850px;
+		margin:auto;
+	}
+	section{
+		width: 850px;
+		margin:auto;
+	}
+	.image{
+		width: 650px;
+	}
+	.overlay{
+		width: 650px;
+	}
+	footer{
+		width: 850px;
+		margin:auto;
+	}
+}
+@media screen and ( max-width: 1120px) {
+	body{
+		width: 100%;
+	}
+	nav,#navbar{
+		width: 900px;
+		margin:auto;
+	}
+	section{
+		width: 900px;
+		margin:auto;
+	}
+	.image{
+		width: 650px;
+	}
+	.overlay{
+		width: 650px;
+	}
+	footer{
+		width: 900px;
+		margin:auto;
+	}
+}

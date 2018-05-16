@@ -1,0 +1,32 @@
+@media screen and ( max-width: 980px) {
+	body{
+		width: 100%;
+	}
+	nav,#navbar{
+		width: 800px;
+		margin:auto;
+	}
+	main{
+		width: 800px;
+		margin:auto;
+	}
+	
+	footer{
+		width: 800px;
+		margin:auto;
+	}
+	.principala_foto img{
+		width: 700px;
+		border-radius:10px;
+	}
+	#text{
+		width: 700px;
+	}
+	#descript{
+		font-size:14px;
+	}
+	#trandafir{
+		width: 400px;
+		margin-right: 20px;
+	}
+}
